@@ -1,0 +1,19 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2f6ff;
+  background-image: url("background-img/68-688686_encyclopedia-spongebobia-bikini-bottom.png");
+  background-size: cover;
+
+  color: white;
+}
+
+.about {
+  background-color: ##43afe0;
+}
+
+#project {
+  background-color: #e2f6ff;
+}
